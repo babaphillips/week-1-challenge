@@ -5,7 +5,8 @@
 }
 
 body {
-    background-color: #d9dcd6;
+    color: #d9dcd6;
+    ;
 }
 
 .header {
@@ -16,11 +17,11 @@ body {
 }
 
 .header h1 {
-    display: inline-block;
     font-size: 48px;
+    display: inline-block;
 }
 
-.header h1 .seo {
+.header h1 .search-engine-optimization {
     color: #d9dcd6;
 }
 
@@ -193,8 +194,10 @@ p {
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
+    color: #000000;
+
 }
 
 .footer h2 {
-    font-size: 20px;
+    font-size: 20px
 }
