@@ -1,3 +1,5 @@
+/* element rules */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,6 +9,10 @@
 body {
     background-color: #d9dcd6;
 }
+
+/*element rules ends*/
+
+/* header style */
 
 .header {
     padding: 20px;
@@ -47,6 +53,10 @@ p {
     font-size: 16px;
 }
 
+/* header style ends */
+
+/*main content style */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -72,6 +82,10 @@ p {
     display: inline-block;
     margin-left: 20px
 }
+
+/*main content style ends */
+
+/*aside content style */
 
 .benefits {
     margin-right: 20px;
@@ -120,6 +134,10 @@ p {
     font-size: 36px;
 }
 
+/*aside content style ends */
+
+/*footer style */
+
 .footer {
     padding: 30px;
     clear: both;
@@ -131,3 +149,5 @@ p {
 .footer h2 {
     font-size: 20px
 }
+
+/*footer style ends */
