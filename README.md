@@ -11,10 +11,13 @@ A website that follows accessability standards and is optimized for search engin
 
 ## GitHub Link: https://github.com/babaphillips/horiseon-refactor
 
-## Mock-Up
-![Screenshot](/images/project_screen_Shot.png)
 
-Contribution
+## Mock-Up
+
+<img src="style/images/project_screen_Shot.png" alt="Website Mock-Up">
+
+
+## Contribution
 Made with ❤️ by Amanda Phillips
 
 ©️2019 Horiseon, Inc
