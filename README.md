@@ -12,7 +12,7 @@ A website that follows accessability standards and is optimized for search engin
 ## GitHub Link: https://github.com/babaphillips/horiseon-refactor
 
 ## Mock-Up
-<img src="./images/project_screen_Shot.png">
+![Screenshot](/images/project_screen_Shot.png)
 
 Contribution
 Made with ❤️ by Amanda Phillips
